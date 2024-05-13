@@ -1,0 +1,6 @@
+{
+  "GestaoProdutosAg.API.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\cadut\\source\\GestaoProdutosAg\\GestaoProdutosAg.Application",
+  "GestaoProdutosAg.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\cadut\\source\\GestaoProdutosAg\\GestaoProdutosAg",
+  "GestaoProdutosAg.API.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\cadut\\source\\GestaoProdutosAg\\GestaoProdutosAg.Domain",
+  "GestaoProdutosAg.API.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\cadut\\source\\GestaoProdutosAg\\GestaoProdutosAg.Infrastructure"
+}
